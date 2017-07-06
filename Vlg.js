@@ -6,5 +6,6 @@ function priceCheck(price) {
     return "That's cheap!";
   }
   if (price = 0) {
-  return "Not bad...";
+    return "Not bad...";
+  }
 }
