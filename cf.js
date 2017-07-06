@@ -1,1 +1,4 @@
-window.alert("I'm the king of the world")
+function fToC(f) {
+  c = (f - 32) * 5/9;
+  return c;
+}
